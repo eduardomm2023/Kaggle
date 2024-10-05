@@ -4,5 +4,5 @@
 # https://www.kaggle.com/
 # TODOS los consejos, sugerencias, anotaciones, indicaciones, críticas (siempre que sean CONSTRUCTIVAS), comentarios, etc son y serán BIENVENIDOS.
 <p align = "center">
-  <a href="mailto:loquelojonove1975@gmail.com" target="_blank" title="Email" rel="noopener"><img src="aportaciones.jfif" title="Email"></i></a>
+  <a href="mailto:loquelojonove1975@gmail.com" target="_blank" rel = "noopener noreferrer" title="Email" rel="noopener"><img src="aportaciones.jfif" title="Email"></i></a>
 </p>
